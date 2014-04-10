@@ -1,0 +1,14 @@
+PODS:
+  - Cedar (0.9.6)
+
+DEPENDENCIES:
+  - Cedar (from `https://github.com/pivotal/Cedar.git`)
+
+EXTERNAL SOURCES:
+  Cedar:
+    :git: https://github.com/pivotal/Cedar.git
+
+SPEC CHECKSUMS:
+  Cedar: 0a470fd062666218c3ac1a38503584d1e9a68b88
+
+COCOAPODS: 0.29.0
